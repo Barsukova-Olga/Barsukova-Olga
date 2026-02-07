@@ -1,5 +1,4 @@
-<h1 align="center">Привет, Я <a href="https://github.com/Barsukova-Olga" target="_blank">Ольга</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет, Я <a href="https://github.com/Barsukova-Olga" target="_blank">Ольга</a></h1>
 
 ### 🚀 **Обо мне**
 
